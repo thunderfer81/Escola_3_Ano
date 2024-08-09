@@ -1,0 +1,17 @@
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+
+}
+
+.recomendado {
+    display: flex;
+    gap: 1px
+
+}
+
+img{
+    height: 100px;
+}
+
