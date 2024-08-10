@@ -1,17 +1,62 @@
+.body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    color: black;
+    border-bottom: solid 2px black;
+
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+
+}
+
+.destaque-2 {
+    margin-left: 20px;
+    font-size: 20px;
+
+}
+
+.destaque-1 {
+    background: rgb(192, 245, 189);
+
+}
+
+.video-destaque {
+    border: solid 2px black;
+    overflow-x: auto;
+    gap: 10px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    background: rgba(238, 240, 115, 0.927);
+
+}
+
 .categoria {
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 50px;
+    background: rgb(192, 243, 255);
 
 }
 
 .recomendado {
+    border: solid 2px black;
     display: flex;
     gap: 1px
-
+    
 }
 
-img{
+img {
     height: 100px;
 }
-
