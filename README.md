@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 >[Material para consulta - Unidade 3 - Algoritmos: criando uma aventura com HTML, CSS e Javascript](https://drive.google.com/drive/folders/1o8TbXbRoqnnlLMFKnYEXH9QoKQggjHBC?usp=sharing). 📖
 
-> Material para consulta - Unidade 3 - Página _web_: desenvolvendo um _site_ de assinatura de conteúdo. 📖
+> [Material para consulta - Unidade 3 - Página _web_: desenvolvendo um _site_ de assinatura de conteúdo.](https://drive.google.com/drive/folders/1qswkTD3x-k3i1TDBddPRsacwmKdVzJK6?usp=sharing) 📖
 
 ____________________________________________________________________________________________________________
 
